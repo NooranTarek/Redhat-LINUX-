@@ -7,7 +7,11 @@
 dir1 docs
 dir11 dir12 mycv
 file1
-https://github.com/NooranTarek/Redhat-LINUX-/blob/main/q4_pt1.png?raw=true
+![1](https://github.com/NooranTarek/Redhat-LINUX-/blob/main/q4_pt1.png?raw=true)
+![1](https://github.com/NooranTarek/Redhat-LINUX-/blob/main/q4_pt2.png?raw=true)
+![1](https://github.com/NooranTarek/Redhat-LINUX-/blob/main/q4_pt3.png?raw=true)
+![1](https://github.com/NooranTarek/Redhat-LINUX-/blob/main/q4_pt4.png?raw=true)
+
 a. Remove dir11 in one-step. What did you notice? And how did you overcome that?
 b. Then remove dir12 using rmdir –p command. State what happened to the
 hierarchy (Note: you are in your home directory).
