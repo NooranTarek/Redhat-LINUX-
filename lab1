@@ -1,0 +1,48 @@
+                  cat                                                            more 
+concatenate files and print on the standard output                more is a filter for paging through text one screenful at a time.                                          This version is especially primitive.
+cat [OPTION]... [FILE]..                                          version is especially primitive.
+it shows all data at one time so we can scroll                    show data page by page by click enter 
+
+                 rm                                                              rmdir
+remove files or directories                                       Remove the DIRECTORY(ies), if they are removes each specified file.                                      empty. 
+By default, it does not remove                    directories	                                                                                
+rm [OPTION]... [FILE]...                                         rmdir [OPTION]... DIRECTORY...     
+
+Q4.a.i remove it using rm not rmdir beacuse dir11 not empty and addedd option -r to remove the directory and its content
+Q4.b.-p option makes the parent dir1 and child directory dir12 deleted not only child dir12
+absulute   /home/nouran/docs/mycv
+relative  ./docs/mycv
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
