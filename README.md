@@ -1,8 +1,17 @@
 # Redhat-LINUX-
 ![1](https://pentagram-production.imgix.net/2ac8ca0b-d505-46c1-9a5d-9b630a597716/ps_redhat_02.jpg?rect=%2C%2C%2C&w=640&crop=1&fm=jpg&q=70&auto=format&fit=crop&h=427)
-1. Install CentOS /RHEL
-2. What is the difference between cat and more command?
-3. What is the difference between rm and rmdir using man?
+Install CentOS /RHEL
+What is the difference between cat and more command?
+                  cat                                                            more 
+concatenate files and print on the standard output                more is a filter for paging through text one screenful at a time.                                          This version is especially primitive.
+cat [OPTION]... [FILE]..                                          version is especially primitive.
+it shows all data at one time so we can scroll                    show data page by page by click enter 
+
+What is the difference between rm and rmdir using man?
+                 rm                                                              rmdir
+remove files or directories                                       Remove the DIRECTORY(ies), if they are removes each specified file.                                      empty. 
+By default, it does not remove                    directories	                                                                                
+rm [OPTION]... [FILE]...                                         rmdir [OPTION]... DIRECTORY...  
 4. Create the following hierarchy under your home directory:
 dir1 docs
 dir11 dir12 mycv
