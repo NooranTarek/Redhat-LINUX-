@@ -4,7 +4,7 @@ Install CentOS /RHEL
 What is the difference between cat and more command?
 
                   cat                                                            more 
-concatenate files and print on the standard output                more is a filter for paging through text one screenful at a time.                                                             This version is especially primitive.
+concatenate files and print on the standard output         <t>       more is a filter for paging through text one screenful at a time.                                                             This version is especially primitive.
 cat [OPTION]... [FILE]..                                          version is especially primitive.
 it shows all data at one time so we can scroll                    show data page by page by click enter 
 
