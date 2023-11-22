@@ -46,6 +46,7 @@ c. The output of the command pwd was /home/user. Write the absolute
 and relative path for the file mycv
 <html></br></html> 
 absulute   /home/nouran/docs/mycv
+<html></br></html> 
 relative  ./docs/mycv
 5. Copy the /etc/passwd file to your home directory making its name is mypasswd.
 
