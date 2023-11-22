@@ -1,5 +1,5 @@
 # Redhat-LINUX-
-![1]([https://www.redhat.com/cms/managed-files/Brand_Standars-Red_Hat-_color_on-black.svg](https://www.redhat.com/themes/custom/rhdc/img/red-hat-social-share.jpg))
+![1](https://www.redhat.com/themes/custom/rhdc/img/red-hat-social-share.jpg)
 
 
 Install CentOS /RHEL
