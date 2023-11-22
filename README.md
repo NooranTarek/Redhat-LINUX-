@@ -31,6 +31,7 @@ file1
 a. Remove dir11 in one-step. What did you notice? And how did you overcome that?
 --> i remove it using rm not rmdir beacuse dir11 not empty and addedd option -r to remove the directory and its content.
 <html></br></html>
+
 ![1](https://github.com/NooranTarek/Redhat-LINUX-/blob/main/q4_a.png?raw=true)
 
 b. Then remove dir12 using rmdir –p command. State what happened to the
