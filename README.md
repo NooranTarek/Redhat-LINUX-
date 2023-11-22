@@ -36,7 +36,10 @@ a. Remove dir11 in one-step. What did you notice? And how did you overcome that?
 
 b. Then remove dir12 using rmdir –p command. State what happened to the
 hierarchy (Note: you are in your home directory).
-![1]()
+option makes the parent dir1 and child directory dir12 deleted not only child dir12
+<html></br></html> 
+
+![1](https://github.com/NooranTarek/Redhat-LINUX-/blob/main/q4-b.png?raw=true)
 
 
 c. The output of the command pwd was /home/user. Write the absolute
