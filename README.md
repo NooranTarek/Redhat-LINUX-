@@ -29,6 +29,7 @@ file1
 ![1](https://github.com/NooranTarek/Redhat-LINUX-/blob/main/q4_pt4.png?raw=true)
 
 a. Remove dir11 in one-step. What did you notice? And how did you overcome that?
+<html></br></html>
 --> i remove it using rm not rmdir beacuse dir11 not empty and addedd option -r to remove the directory and its content
 ![1](https://github.com/NooranTarek/Redhat-LINUX-/blob/main/q4_a.png?raw=true)
 
