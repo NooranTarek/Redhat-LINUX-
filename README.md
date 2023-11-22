@@ -48,34 +48,38 @@ absulute   /home/nouran/docs/mycv
 <html></br></html> 
 relative  ./docs/mycv
 5. Copy the /etc/passwd file to your home directory making its name is mypasswd.
-
-
-
+![1](https://github.com/NooranTarek/Redhat-LINUX-/blob/main/q5.png?raw=true)
 
 6. Rename this new file to be oldpasswd.
+![1](https://github.com/NooranTarek/Redhat-LINUX-/blob/main/q6.png?raw=true)
 
 
 
 
 7. You are in /usr/bin, list four ways to go to your home directory
+![1](https://github.com/NooranTarek/Redhat-LINUX-/blob/main/q7.png?raw=true)
+
 
 
 
 
 
 8. List Linux commands in /usr/bin that start with letter w
+![1](https://github.com/NooranTarek/Redhat-LINUX-/blob/main/q8.png?raw=true)
 
 
 
 
 
 9. Display the first 4 lines of /etc/passwd
+![1](https://github.com/NooranTarek/Redhat-LINUX-/blob/main/q9.png?raw=true)
 
 
 
 
 
 10.Display the last 7 lines of /etc/passwd
+![1](https://github.com/NooranTarek/Redhat-LINUX-/blob/main/q10.png?raw=true)
 
 
 
@@ -83,12 +87,16 @@ relative  ./docs/mycv
 
 
 11.Display the man pages of passwd the command and the file sequentially in one command.
+![1](https://github.com/NooranTarek/Redhat-LINUX-/blob/main/q11a.png?raw=true)
+![1](https://github.com/NooranTarek/Redhat-LINUX-/blob/main/q11.png?raw=true)
 
 
 
 
 
 12.Display the man page of the passwd file.
+![1](https://github.com/NooranTarek/Redhat-LINUX-/blob/main/q12a.png?raw=true)
+![1](https://github.com/NooranTarek/Redhat-LINUX-/blob/main/q12.png?raw=true)
 
 
 
@@ -96,9 +104,7 @@ relative  ./docs/mycv
 
 
 13.Display a list of all the commands that contain the keyword passwd in their man page.
-
-
-
+![1](https://github.com/NooranTarek/Redhat-LINUX-/blob/main/q13.png?raw=true)
 
 
 
