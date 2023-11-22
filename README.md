@@ -36,13 +36,14 @@ a. Remove dir11 in one-step. What did you notice? And how did you overcome that?
 
 b. Then remove dir12 using rmdir –p command. State what happened to the
 hierarchy (Note: you are in your home directory).
-
+![1]()
 
 
 c. The output of the command pwd was /home/user. Write the absolute
 and relative path for the file mycv
-
-
+<html></br></html> 
+absulute   /home/nouran/docs/mycv
+relative  ./docs/mycv
 5. Copy the /etc/passwd file to your home directory making its name is mypasswd.
 
 
